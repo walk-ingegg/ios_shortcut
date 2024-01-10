@@ -1,0 +1,25 @@
+{
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true,
+    "black-formatter.args": [
+        "--line-length=79"
+    ],
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 1000,
+    "python.defaultInterpreterPath": "/Users/horiokaito/.pyenv/shims/python",
+    "cSpell.words": [
+        "boto",
+        "clientsecrets",
+        "creds",
+        "googleapiclient",
+        "skack"
+    ],
+    "[markdown]": {
+        "editor.defaultFormatter": "DavidAnson.vscode-markdownlint"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    }
+}
